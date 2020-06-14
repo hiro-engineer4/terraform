@@ -1,3 +1,7 @@
-# $ terraform init
-# $ terraform plan
-# $ terraform apply
+# Usage
+
+```bash
+terraform init
+terraform plan
+terraform apply
+```
